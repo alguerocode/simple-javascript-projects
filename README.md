@@ -1,7 +1,13 @@
 # simple-javascript-projects
 
 javascript simple projects to do as begginer in javascript 
-
+<p align="center">
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/alhashmicode/simple-javascript-projects" alt="Stars Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/alhashmicode/simple-javascript-projects" alt="Forks Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/alhashmicode/simple-javascript-projects" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/alhashmicode/simple-javascript-projects" alt="Issues Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/alhashmicode/simple-javascript-projects?color=2b9348"></a>
+</p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/75932477/124375572-fd307480-dcb3-11eb-91b6-1deae9b1c4fa.png">
 </p>
