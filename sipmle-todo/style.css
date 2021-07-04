@@ -1,0 +1,48 @@
+button,input[type =submit]{
+  outline: none;
+  width: 50px;
+  height: 20px;
+  font-family: sans-serif;
+  font-size: 10px;
+  background-color: blueviolet;
+  color: aliceblue;
+  border: none;
+  border-radius: 5px;
+}
+div{
+  border:none;
+  width: 150px;
+  height: 40px;
+}
+h4{ 
+  position: relative;
+  margin-top: 5px;
+  display: inline;
+  width: 10px;
+  background-color: blueviolet;
+  border-radius: 5px;
+  height: 10px;
+  font-size: 20px;
+}
+.more-info-text{
+  background-color: aqua;
+  font-size: 15px;
+  border-radius: 7px;
+  color: black;
+  font-family: sans-serif;
+  font-style: italic;
+}
+.none-visible{
+ display: none;
+}
+main{
+  background-color: darkgray;
+  border: 10px;
+}
+.task{
+  display: flext;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  min-width: 300px;
+}
